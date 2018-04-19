@@ -14,6 +14,7 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
+<<<<<<< HEAD
 
 function logWhisper(string) {
   console.log(string.toLowerCase())
@@ -34,3 +35,5 @@ function sayHiToGrandma(string) {
 
   return "Are you eating enough?"
 }
+=======
+>>>>>>> 1ddbac47c837cc05fa734fab2fdbb8a0814961b8
